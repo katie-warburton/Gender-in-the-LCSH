@@ -1,8 +1,15 @@
-man	woman
-men	women
+man 	woman
+men 	women 
+mens	womens
+men's	women's
+men-	women-
+ men	 women
+men,	women,
 male	female
+male	women
 boy	girl
 father	mother
+son	daughter
 uncle	aunt
 brother	sister
 fiancé	fiancée
@@ -13,3 +20,5 @@ nephew	niece
 masculine	feminine
 gay man	lesbian
 gay men	lesbians
+gay men's	lesbians'
+gay fathers	lesbian mothers

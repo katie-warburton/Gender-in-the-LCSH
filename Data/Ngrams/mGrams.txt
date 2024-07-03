@@ -35,14 +35,12 @@ sh2003003398	african american gay men	2003
 sh2003005086	church group work with men	2003
 sh2003006229	gay men in motion pictures	2003
 sh2003007122	male prisoners	2003
-sh2003009253	father of sisyphus aeolus	2003
 sh2003009293	brothers in art	2003
 sh2003011466	jewish gay men	2003
 sh2004001478	deaf gay men	2004
 sh2004002160	black gay men	2004
 sh2004002852	male preschool teachers	2004
 sh2004003079	middle aged fathers	2005
-sh2004004631	buddhist boy attendants	2004
 sh2004005618	protestant men	2004
 sh2004006799	homeless men	2004
 sh2004008293	boys in motion pictures	2004
@@ -166,7 +164,6 @@ sh2012000890	presbyterian men	2012
 sh2012001909	upper class men	2012
 sh2013000624	men in music	2013
 sh2013000663	gullah men	2013
-sh2013001809	man of sorrows	2013
 sh2013003322	navajo men	2013
 sh2013003648	cherokee boys	2013
 sh2014000328	navajo male weavers	2014
@@ -226,7 +223,6 @@ sh89000628	abusive men	2000
 sh90000760	gay fathers	1990
 sh90000937	men in popular culture	1990
 sh90001331	men 's dreams	1990
-sh90003369	green man	1990
 sh90003731	african american teenage boys	2000
 sh90005240	older gay men	2004
 sh91001384	game boy video games	2000
@@ -256,7 +252,6 @@ sh92006124	gay men 's writings	1992
 sh92006125	american gay men 's writings	1992
 sh92006126	english gay men 's writings	1992
 sh93000030	desert fathers	1993
-sh93000066	big boys	1993
 sh93000733	male models	1993
 sh93000879	australian gay men 's writings	1993
 sh93001826	stiff man syndrome	1993
@@ -321,6 +316,7 @@ sh96004840	winnebago boys	1996
 sh96005259	japanese american men	1996
 sh96006462	russian gay men 's writings	1996
 sh96006542	deaf men	2001
+sh96007071	boys ' choirs	1996
 sh96008325	men with disabilities	2001
 sh96009035	tewa boys	1996
 sh96009072	zuni boys	1996
@@ -342,9 +338,7 @@ sh97003425	vietnam son thang incident 1970	2006
 sh97003582	motion pictures for men	1997
 sh97004953	korean american men	1997
 sh97004990	self esteem in men	1997
-sh97005674	man nương	1997
 sh97005745	male homosexuality in literature	1997
-sh97005889	praying boy	1997
 sh97006078	irish gay men 's writings	1997
 sh97006322	nigerian american men	1997
 sh97006447	gullah boys	1997
@@ -356,7 +350,6 @@ sh97008659	male child care workers	1997
 sh97008947	leading men	1997
 sh97009040	african american male singers	2000
 sh97009041	male singers	1997
-sh97009124	boy with leaking boot	1997
 sh98000839	body image in men	1998
 sh98000907	boy scouts on postage stamps	1998
 sh98001310	male juvenile delinquents	1998
