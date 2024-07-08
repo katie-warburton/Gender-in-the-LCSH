@@ -4,7 +4,6 @@ sh00000505	women dermatologists	2000
 sh00000855	women librettists	2000
 sh00001040	mothers on television	2000
 sh00001208	new zealand lesbians ' writings	2000
-sh00001222	daughters of zelophehad	2000
 sh00001278	chilean american women	2000
 sh00001663	lesbian rabbis	2000
 sh00001768	women transmitters of the hadith	2000
@@ -38,7 +37,6 @@ sh00005360	toba women	2000
 sh00005787	obesity in women	2000
 sh00006500	guaymi women	2000
 sh00006555	suri women	2000
-sh00006603	women 's monument	2000
 sh00006743	homeless girls	2000
 sh00006749	african american homeless women	2000
 sh00006771	low income single mothers	2000
@@ -370,7 +368,6 @@ sh2005003088	loma women	2005
 sh2005003345	mexican american women politicians	2005
 sh2005003486	portuguese women poets	2005
 sh2005003743	pedi women	2005
-sh2005003747	women 's murder club	2005
 sh2005003853	women break dancers	2005
 sh2005003858	dance for women	2005
 sh2005003869	break dancing for women	2005
@@ -645,7 +642,6 @@ sh2009007717	women tomato industry employees	2009
 sh2009007780	brazilian women novelists	2009
 sh2009007789	slovenian women 's periodicals	2009
 sh2009008252	mothers of criminals	2009
-sh2009008292	national women 's monument	2009
 sh2009008362	rugby football for women	2009
 sh2009008383	unitarian women	2009
 sh2009008396	women detectives in motion pictures	2009
@@ -696,7 +692,6 @@ sh2010003685	quaker girls	2010
 sh2010003849	hispanic american women on television	2010
 sh2010004456	ambassador girl scouts	2010
 sh2010004807	malay women authors	2010
-sh2010005622	arch lake woman	2010
 sh2010006162	yanomamo women	2010
 sh2010006459	anglo indian women in literature	2010
 sh2010007778	women theater critics	2010
@@ -813,7 +808,6 @@ sh2013000727	samaritan women	2013
 sh2013000871	women roller skaters	2013
 sh2013001024	chumash women	2013
 sh2013001025	black seminole women	2013
-sh2013001076	monty girl	2013
 sh2013001248	french canadian women	2013
 sh2013001313	women prisoners in motion pictures	2013
 sh2013001336	haitian women poets	2013
@@ -1434,7 +1428,6 @@ sh94006644	minority women in literature	1994
 sh94006690	mother and child in literature	1994
 sh94006691	mothers and daughters in literature	1994
 sh94006693	mothers in law in literature	1994
-sh94006943	vietnam women 's memorial	2006
 sh94007239	women historians of science	1994
 sh94007241	women historians of technology	1994
 sh94007244	women medical historians	1994
@@ -1725,7 +1718,6 @@ sh97002258	basque women poets	1997
 sh97002393	motion pictures and women	1997
 sh97002407	women 's computer network resources	1997
 sh97002441	bantu speaking women	1997
-sh97002526	mother of pearl in art	1997
 sh97002730	hawaiian women in art	2004
 sh97002731	prehistoric women in art	1997
 sh97002732	women musicians in art	1997
@@ -1795,7 +1787,6 @@ sh97006801	vietnamese women poets	1997
 sh97006909	women boxers	1997
 sh97007002	warao women	2002
 sh97007102	brazilian women dramatists	1997
-sh97007115	nigeria women 's revolt 1929	1997
 sh97007168	anxiety in women	1997
 sh97007310	women ship captains	1997
 sh97007544	filipino women authors	1997

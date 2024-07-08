@@ -2,7 +2,6 @@ sh00001033	motion pictures and gay men	2000
 sh00002031	eating disorders in men	2000
 sh00002634	russian male authors	2000
 sh00004216	male comedians	2000
-sh00004544	cheddar man	2000
 sh00006136	fathers of confederation	2000
 sh00006742	homeless boys	2000
 sh00006898	hispanic american teenage boys	2000
@@ -14,20 +13,16 @@ sh2001002998	action man figures	2001
 sh2001006263	male caregivers	2001
 sh2001006294	gifted men	2001
 sh2001006299	gifted boys	2001
-sh2001006606	minnesota man	2001
 sh2001007769	latter day saint men	2001
 sh2001007935	infant boys	2001
 sh2001008086	learning disabled men	2001
 sh2001008091	men with mental disabilities	2001
-sh2001012439	male language	2002
 sh2002000825	fathers and sons in art	2002
 sh2002002243	bahai men	2002
 sh2002007184	male friendship in motion pictures	2002
 sh2002009084	puritan men	2002
 sh2003000553	afrikaans gay men 's writings	2003
 sh2003001002	argentine gay men 's writings	2003
-sh2003001245	gingerbread men	2003
-sh2003001250	gingerbread men in art	2003
 sh2003001876	male social workers	2003
 sh2003001932	african american bisexual men	2003
 sh2003002220	male musicians	2003
@@ -52,9 +47,7 @@ sh2004014024	sexually abused boys	2004
 sh2004145106	african american male college students	2004
 sh2005000118	alcoholic fathers	2005
 sh2005001033	fathers of authors	2005
-sh2005001219	1971 operation lam son 719	2005
 sh2005001335	handicraft for boys	2005
-sh2005002613	he man figures	2005
 sh2005003843	male homosexuality in music	2005
 sh2005004075	high school boys	2005
 sh2005004587	catholic gay men	2005
@@ -93,13 +86,9 @@ sh2006008793	male artists	2006
 sh2006020062	young bisexual men	2006
 sh2007000330	mexican gay men 's writings	2007
 sh2007000724	men 's underwear	2007
-sh2007001130	dong son culture	2007
-sh2007001213	big brother television programs	2007
 sh2007003111	nonbiological fathers	2007
 sh2007003312	men and literature	2007
 sh2007005677	stay at home fathers	2007
-sh2007005857	fall of man in music	2007
-sh2007006312	son of god	2007
 sh2007006389	achievement motivation in boys	2007
 sh2007007249	best man	2007
 sh2007008747	indic gay men 's writings	2007
@@ -126,7 +115,6 @@ sh2008009441	sons in law	2008
 sh2008009912	asian american gay men	2008
 sh2009002073	fathers of heads of state	2009
 sh2009002823	indian men	2009
-sh2009006386	flores man	2009
 sh2009007071	internet and gay men	2009
 sh2009007072	internet and bisexual men	2009
 sh2009007186	male reproductive health	2009
@@ -140,7 +128,6 @@ sh2009008896	male athletes	2009
 sh2009009123	male white collar workers	2009
 sh2009009527	cuban gay men 's writings	2009
 sh2009009639	muslim gay men	2009
-sh2009010382	tianyuan man	2009
 sh2009010810	muslim men	2009
 sh2010000531	hawaiian boys	2010
 sh2010001780	schizophrenic fathers	2010
@@ -171,7 +158,6 @@ sh2014000516	indian teenage boys	2014
 sh2014000789	older men in art	2014
 sh2014001993	sexual minority men	2014
 sh2014002076	photography of young men	2014
-sh2015000099	marx brothers films	2015
 sh2015000395	maasai men	2015
 sh2015000994	italian american men	2015
 sh2015001450	cree boys	2015
@@ -184,7 +170,6 @@ sh2015001963	choctaw boys	2015
 sh2015002000	middle school boys	2015
 sh2015002001	african american middle school boys	2015
 sh2015002002	african american high school boys	2015
-sh2015002535	x men films	2015
 sh2015002625	fathers in mass media	2015
 sh2015002657	arab american men	2015
 sh2015002658	arab american men in literature	2015
@@ -196,10 +181,7 @@ sh2016001553	grandfathers in art	2016
 sh2016001702	hispanic american bisexual men	2016
 sh2016001703	hispanic american gay men	2016
 sh2016001714	young male prisoners	2016
-sh2016002179	ai men	2016
 sh2017000123	male cheerleaders	2017
-sh2017002993	man faced bulls	2017
-sh2017002994	man faced bulls in numismatics	2017
 sh2017003587	single fathers in motion pictures	2017
 sh2017003828	boy knitters	2017
 sh85000954	teenage boys	2001
@@ -209,7 +191,6 @@ sh85027035	male climacteric	2000
 sh85053842	male generative organs	2000
 sh85057417	grooming for men	2006
 sh85064636	male impersonators	2006
-sh85082849	mediation between god and man	2003
 sh85083521	white men	2004
 sh85083522	men	2005
 sh85083595	men 's clothing	2006
@@ -225,16 +206,13 @@ sh90000937	men in popular culture	1990
 sh90001331	men 's dreams	1990
 sh90003731	african american teenage boys	2000
 sh90005240	older gay men	2004
-sh91001384	game boy video games	2000
 sh91003265	big man	1991
 sh91004780	father of the year	1991
-sh91004806	divine man	1991
 sh91005573	social work with men	1991
 sh92001038	male rape victims	1992
 sh92001071	male rape	1992
 sh92001896	abused gay men	1992
 sh92002382	men 's movement	1992
-sh92002894	java man	1992
 sh92003317	african american boys	2000
 sh92003559	mentally ill fathers	1992
 sh92003968	men 's toiletries	2006
@@ -254,7 +232,6 @@ sh92006126	english gay men 's writings	1992
 sh93000030	desert fathers	1993
 sh93000733	male models	1993
 sh93000879	australian gay men 's writings	1993
-sh93001826	stiff man syndrome	1993
 sh93002510	bisexual men	1993
 sh93003484	gay men on postage stamps	1993
 sh93003542	heterosexual men	1993
@@ -276,14 +253,12 @@ sh94004181	father figures in literature	1994
 sh94004736	husbands in literature	1994
 sh94004807	overweight men	1994
 sh94004941	male employees	1994
-sh94005979	heidelberg man	1994
 sh94005995	puerto rican young men	2000
 sh94006017	african american young men	2000
 sh94006108	males in literature	1994
 sh94006201	national men 's health week	1994
 sh94006622	middle class men in literature	1994
 sh94008194	cosmetics for men	1994
-sh94008648	primitive man stereotype in literature	1994
 sh94008834	uncles in literature	1994
 sh94008989	asian american boys	1994
 sh94009204	young men in literature	1994
@@ -323,7 +298,6 @@ sh96009072	zuni boys	1996
 sh96009636	men 's mass media	2006
 sh96009819	boy charros	1996
 sh96011135	african american men in art	2000
-sh96011191	men in black	1996
 sh96011711	aboriginal australian boys	2003
 sh96011769	male homosexuality in art	1996
 sh96012095	white men in literature	2004
@@ -334,7 +308,6 @@ sh97000998	gay men in art	1997
 sh97001083	croatian american boys	1997
 sh97001458	men in advertising	1997
 sh97002722	wild men in art	1997
-sh97003425	vietnam son thang incident 1970	2006
 sh97003582	motion pictures for men	1997
 sh97004953	korean american men	1997
 sh97004990	self esteem in men	1997
@@ -364,7 +337,6 @@ sh98005999	bridegrooms	1998
 sh98006642	male friendship in literature	1998
 sh98007353	male feminists	1998
 sh99010358	motion pictures and men	1999
-sh99011195	kennewick man	2000
 sh99013078	middle aged gay men	2005
 sh99013820	cancer in men	1999
 sh99013921	boxing for boys	1999
