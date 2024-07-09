@@ -286,7 +286,7 @@ sh2010009133	hemp seed oil	2010
 sh2010009818	high altitude platform systems	2010
 sh2010010271	cooking hops	2010
 sh2010010510	long term evolution	2010
-sh2010011865	presidents' day decorations	2010
+sh2010011865	presidents ' day decorations	2010
 sh2010011975	tyrolean cooking	2010
 sh2010012247	titanium powder	2010
 sh2010012420	sistema nacional e méxico	2010
@@ -957,7 +957,7 @@ sh94003040	automobile related wastes	1994
 sh94003092	ecs satellites	1994
 sh94003103	post frame buildings	1994
 sh94003117	thermal batteries	1994
-sh94003133	girls' clothing	2003
+sh94003133	girls ' clothing	2003
 sh94003313	aerated package treatment systems	1994
 sh94003315	roadside litter	1994
 sh94003322	waste tires	2000
