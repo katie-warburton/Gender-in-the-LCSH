@@ -2,10 +2,7 @@ sh00000025	women marine mammalogists	2000
 sh00000458	overweight women in art	2000
 sh00000505	women dermatologists	2000
 sh00000855	women librettists	2000
-sh00001040	mothers on television	2000
-sh00001208	new zealand lesbians ' writings	2000
 sh00001278	chilean american women	2000
-sh00001663	lesbian rabbis	2000
 sh00001768	women transmitters of the hadith	2000
 sh00001939	fon women	2000
 sh00002017	women insurance agents	2000
@@ -17,13 +14,10 @@ sh00002172	creole women	2000
 sh00002177	ashaninca women	2000
 sh00002341	spiritual retreats for women	2001
 sh00002400	surfing for women	2000
-sh00002434	lesbian feminist theory	2000
-sh00002481	chickasaw girls	2000
 sh00002485	pacific gulf yupik women	2000
 sh00002486	kalispel women	2000
 sh00003127	women tap dancers	2000
 sh00003146	women mammalogists	2000
-sh00003610	puerto rican lesbians	2000
 sh00003865	swedish women poets	2000
 sh00003931	women museum directors	2000
 sh00004127	bolivian women poets	2000
@@ -37,16 +31,14 @@ sh00005360	toba women	2000
 sh00005787	obesity in women	2000
 sh00006500	guaymi women	2000
 sh00006555	suri women	2000
-sh00006743	homeless girls	2000
+sh00006603	women 's monument	2000
 sh00006749	african american homeless women	2000
-sh00006771	low income single mothers	2000
 sh00007187	women religious zionists	2001
 sh00007192	women transport workers	2000
 sh00007323	puerto rican women poets	2000
 sh00007362	indigenous women	2000
 sh00007692	african american women tap dancers	2000
 sh00008612	african american women household employees	2000
-sh00008655	sports for girls	2000
 sh00008656	women war criminals	2000
 sh00009262	naskapi women	2000
 sh00009689	eating disorders in women	2000
@@ -54,30 +46,20 @@ sh00009747	female sex offenders	2000
 sh00009761	women curlers	2000
 sh00009806	women owned law firms	2000
 sh00009852	separated women	2000
-sh2001000161	girls ' underwear	2001
 sh2001000172	women public relations personnel	2001
 sh2001000315	african american women jazz singers	2001
-sh2001000500	sisters in law	2001
 sh2001000585	tamil women authors	2001
-sh2001001152	asian american teenage girls	2001
 sh2001001229	jewish religious education of women	2001
 sh2001001776	women military cadets	2001
-sh2001001913	spiritual retreats for teenage girls	2001
 sh2001001935	etiquette for young women	2001
-sh2001002041	mothers of sexually abused children	2001
-sh2001002076	brownie girl scouts	2001
-sh2001002093	middle aged mothers	2005
 sh2001002096	pitjantjatjara women	2001
 sh2001002290	women dressmakers	2001
 sh2001002365	women conductors	2001
-sh2001002553	girl groups	2001
 sh2001002806	women violists	2002
-sh2001002828	lesbians and musicals	2002
 sh2001003392	venezuelan women authors	2001
 sh2001003508	kalash women	2001
 sh2001004237	honduran women poets	2001
 sh2001004332	women violinists	2001
-sh2001004427	lesbians in motion pictures	2001
 sh2001004463	women fascists	2001
 sh2001004505	ixil women	2001
 sh2001004544	huichol women	2001
@@ -85,24 +67,18 @@ sh2001004759	sechelt women	2001
 sh2001004762	saharia women	2001
 sh2001004763	adnyamathanha women	2006
 sh2001005618	african american women dramatists	2001
-sh2001005637	lesbian high school students	2001
 sh2001005721	icelandic women poets	2001
 sh2001005845	persian women 's periodicals	2001
 sh2001005863	hispanic american women authors	2001
 sh2001005866	hispanic american women dramatists	2001
-sh2001006048	lesbian private investigators	2001
 sh2001006110	women in economic development	2001
 sh2001006252	women forensic scientists	2001
-sh2001006253	junior girl scouts	2001
 sh2001006265	respiratory diseases in women	2001
 sh2001006268	internet and women	2001
 sh2001006627	women circus performers in art	2001
 sh2001006628	women circus performers in literature	2001
 sh2001006801	dutch american women	2001
 sh2001007142	african american women on television	2001
-sh2001007147	lesbian bars in motion pictures	2001
-sh2001007148	lesbian bars	2001
-sh2001007256	white teenage girls	2004
 sh2001007461	self acceptance in women	2001
 sh2001007503	lithuanian women 's periodicals	2001
 sh2001007757	south african women novelists	2001
@@ -117,11 +93,9 @@ sh2001009524	tarok women	2003
 sh2001009605	cuban women authors	2001
 sh2001009911	hatsa women	2001
 sh2001010152	women musicians in literature	2001
-sh2001010507	mothers of soldiers	2001
 sh2001010614	scottish women dramatists	2001
 sh2001011161	fencing for women	2001
 sh2002000166	okiek women	2002
-sh2002000290	italian lesbians ' writings	2002
 sh2002000985	kasem women painters	2002
 sh2002001275	bolivian women authors	2002
 sh2002001671	jewish women authors	2002
@@ -129,16 +103,11 @@ sh2002001706	female offenders in literature	2002
 sh2002001798	turkish women poets	2002
 sh2002001811	muhajir women	2002
 sh2002002058	mixtec women	2002
-sh2002002080	tennis for girls	2002
 sh2002002249	women religious leaders	2002
 sh2002002251	nama women	2002
-sh2002002285	mothers of kidnapped children	2003
 sh2002002369	women amusement ride owners	2002
-sh2002002379	field hockey for girls	2002
 sh2002002425	women in higher education	2002
-sh2002002435	lacrosse for girls	2002
 sh2002002454	mafa women	2003
-sh2002002460	tzotzil girls	2002
 sh2002002461	women migrant labor	2002
 sh2002002465	women epigraphists	2002
 sh2002002468	embera women	2002
@@ -148,18 +117,15 @@ sh2002002808	indian women veterans	2002
 sh2002002810	salish women	2002
 sh2002002813	assiniboine women	2002
 sh2002002814	indian women teachers	2002
-sh2002002825	indian girls	2002
 sh2002002917	belgian women authors	2002
 sh2002002986	women otolaryngologists	2002
 sh2002003643	afghan american women	2002
 sh2002003704	costa rican women authors	2002
 sh2002003772	women heroes on television	2002
 sh2002004118	women 's wit and humor	2002
-sh2002004233	flower girls	2002
 sh2002004663	women and the decorative arts	2002
 sh2002004755	retired women	2002
 sh2002004791	jewish women soldiers	2002
-sh2002004928	music by lesbian composers	2002
 sh2002004945	icelandic women authors	2002
 sh2002005054	tamang women	2002
 sh2002005059	tojolabal women	2002
@@ -167,11 +133,9 @@ sh2002005129	tupinamba women	2002
 sh2002005137	inupiat women	2003
 sh2002005172	in line skating for women	2003
 sh2002005200	young women with disabilities	2002
-sh2002005337	spanish lesbians ' writings	2002
 sh2002005605	canadian women novelists	2002
 sh2002006155	african american women rock musicians	2002
 sh2002006271	kiranti women	2002
-sh2002006647	lesbian composers	2002
 sh2002007015	women booksellers	2002
 sh2002007165	tinne women	2002
 sh2002007176	belizean women poets	2002
@@ -186,21 +150,17 @@ sh2002008835	technology and women	2003
 sh2002008951	self realization in women	2002
 sh2002009061	preaching to women	2002
 sh2002009094	seventh day adventist women	2003
-sh2002009097	latter day saint girls	2003
 sh2002009106	colville women	2002
 sh2002009126	women local officials and employees	2002
 sh2002009376	new zealand women novelists	2002
 sh2002009382	singaporean women authors	2006
 sh2002009440	women squash players	2002
 sh2002009730	indian women poets	2002
-sh2002009898	french lesbians ' writings	2002
-sh2002009925	des exposed daughters	2002
 sh2002010001	achi women	2003
 sh2002010109	australian women poets	2002
 sh2002010111	female gangs	2002
 sh2002010239	carib women in literature	2002
 sh2002010244	carib women	2002
-sh2002010430	indic lesbians ' writings	2002
 sh2002010549	finnish women 's periodicals	2002
 sh2002010986	colombian women authors	2002
 sh2002011267	women hockey coaches	2002
@@ -209,13 +169,9 @@ sh2002011314	female gangs in motion pictures	2002
 sh2002012285	gwich 'in women	2002
 sh2003000042	female gang members	2003
 sh2003000253	gentile women	2003
-sh2003001009	argentine lesbians ' writings	2003
 sh2003001070	women in physics	2003
-sh2003001479	girl scout dolls	2003
 sh2003001655	women suicide bombers	2003
 sh2003001799	women disaster victims	2003
-sh2003001851	camps for girls	2003
-sh2003001884	girl guides	2003
 sh2003001919	pueblo women potters	2003
 sh2003001928	birom women	2003
 sh2003001934	hispanic american women civic leaders	2003
@@ -231,12 +187,10 @@ sh2003003094	women and the environment	2003
 sh2003003343	turkish women authors	2003
 sh2003005256	women death row inmates	2003
 sh2003005309	women tortilla industry employees	2003
-sh2003005318	church group work with mothers	2004
 sh2003005420	women sociology students	2003
 sh2003005602	women 's colleges in literature	2003
 sh2003005773	mpongwe women	2003
 sh2003005823	dagaaba women	2003
-sh2003005835	rugby football for girls	2003
 sh2003005849	sea kayaking for women	2003
 sh2003005866	puritan women	2003
 sh2003005890	swazi women	2003
@@ -248,7 +202,6 @@ sh2003006651	women hosiery workers	2003
 sh2003006778	women gold miners	2003
 sh2003006781	northern paiute women	2003
 sh2003006891	southeast asian american women	2003
-sh2003007056	african american sisters	2003
 sh2003007218	estonian women authors	2004
 sh2003007967	bulgarian women authors	2003
 sh2003008150	women marines	2003
@@ -260,7 +213,6 @@ sh2003009921	women anti apartheid activists	2003
 sh2003010152	australian women dramatists	2003
 sh2003010821	women judges in islamic law	2003
 sh2003011093	dayak women	2003
-sh2003011287	italian american lesbians	2004
 sh2003011640	comfort women in literature	2004
 sh2003012017	women 's clothing	2004
 sh2004000287	jewish women physicians	2004
@@ -277,16 +229,12 @@ sh2004002772	women preschool teachers	2004
 sh2004002774	minority women teachers	2004
 sh2004002775	women school supervisors	2004
 sh2004002867	women police chiefs	2004
-sh2004002870	african american grandmothers	2004
 sh2004003040	church work with older women	2004
-sh2004003064	pawnee girls	2004
 sh2004003065	white mountain apache women	2004
 sh2004003067	hamtai women	2006
-sh2004003075	first born daughters	2004
 sh2004003191	women 's police stations	2004
 sh2004003205	hiking for women	2004
 sh2004003227	women field hockey players	2004
-sh2004003370	lesbian culture	2004
 sh2004004510	catholic women artists	2004
 sh2004004515	algerian women authors	2004
 sh2004004544	rural women in motion pictures	2004
@@ -302,7 +250,6 @@ sh2004005122	african american women comedians	2004
 sh2004005124	karaite women	2004
 sh2004005142	women bounty hunters	2004
 sh2004005205	mexican american women authors	2004
-sh2004005213	mexican american mothers	2004
 sh2004005269	batwa women	2004
 sh2004005383	italian american women authors	2005
 sh2004005442	chiripá women	2004
@@ -312,8 +259,6 @@ sh2004005788	argentine american women	2004
 sh2004006402	women detectives in mass media	2004
 sh2004006406	women humorists	2004
 sh2004006470	women lawyers in motion pictures	2004
-sh2004006763	single mothers in motion pictures	2004
-sh2004006906	rural girls	2004
 sh2004007359	exercise for middle aged women	2005
 sh2004007492	women industrialists	2004
 sh2004007544	nahua women	2004
@@ -326,7 +271,6 @@ sh2004009519	akan women	2004
 sh2004009576	medically uninsured women	2004
 sh2004010217	adivasi women	2004
 sh2004010430	grief in women	2005
-sh2004010433	school sports for girls	2004
 sh2004010434	college sports for women	2004
 sh2004010548	korean american women in literature	2005
 sh2004010915	japanese american women household employees	2005
@@ -351,12 +295,9 @@ sh2005001136	japanese american women soldiers	2005
 sh2005001146	onondaga women	2005
 sh2005001147	walmajarri women	2005
 sh2005001677	women air traffic controllers	2005
-sh2005001725	brazilian lesbians ' writings	2005
-sh2005001950	mothers of war casualties	2005
 sh2005001955	women asianists	2005
 sh2005001963	women middle east specialists	2005
 sh2005002113	gogo women	2005
-sh2005002195	girls ' schools	2005
 sh2005002378	chronic pain in women	2005
 sh2005002577	uruguayan women poets	2005
 sh2005002583	cuban women poets	2005
@@ -381,7 +322,6 @@ sh2005005358	women in the wine industry	2005
 sh2005005581	women pianists	2005
 sh2005006034	single heterosexual women	2005
 sh2005006084	korean women dramatists	2005
-sh2005006224	israeli lesbians ' writings	2005
 sh2005006250	kekchi women	2005
 sh2005006496	jamaican american women	2005
 sh2005006511	shipibo conibo women	2005
@@ -389,33 +329,21 @@ sh2005006594	huli women	2005
 sh2005006609	women television writers	2005
 sh2005006611	women athletes in literature	2005
 sh2005006756	women in the social sciences	2005
-sh2005006809	mass media and girls	2005
 sh2005006821	hispanic american women legislators	2006
-sh2005006948	nonbiological mothers	2005
 sh2005007029	women sales personnel in literature	2005
-sh2005007031	sexually abused girls	2005
 sh2005007080	philippine women 's periodicals	2005
 sh2005007189	female assassins	2006
 sh2005007195	african american women civic leaders	2005
-sh2005007317	lesbian online chat groups	2006
-sh2005007318	lesbian erotic literature	2005
 sh2005007660	czech women authors	2006
-sh2005007705	stay at home mothers	2005
 sh2005007729	women forensic pathologists	2005
 sh2005008167	female masturbation	2005
-sh2005008195	mercer girls	2005
 sh2005020075	older women automobile drivers	2005
-sh2005020200	lesbian partner abuse	2006
-sh2005020203	abusive lesbian partners	2005
-sh2005020247	lesbian heroines in literature	2005
 sh2005020279	women figure skaters	2005
-sh2005020576	internalized homophobia in lesbians	2005
 sh2006000176	canelo women	2006
 sh2006000364	swedish american women	2006
 sh2006000619	women prisoners of war	2006
 sh2006000687	women in fisheries	2006
 sh2006000816	garo women	2006
-sh2006001068	mexican american teenage mothers	2006
 sh2006001099	women college students in literature	2006
 sh2006001133	handa women	2006
 sh2006001309	women and the mafia	2006
@@ -430,20 +358,14 @@ sh2006002246	somali women	2006
 sh2006002357	moroccan women novelists	2006
 sh2006002866	chilean women poets	2006
 sh2006002882	mexican women dramatists	2006
-sh2006003238	lesbian teenagers in literature	2006
 sh2006003332	women journalists in literature	2006
 sh2006003341	women employees on television	2006
 sh2006003550	gullah women	2006
 sh2006003827	women jewelers	2006
 sh2006004187	women organists	2006
-sh2006004532	group counseling for teenage girls	2006
-sh2006004533	group counseling for girls	2006
 sh2006004597	indian women in motion pictures	2006
 sh2006004651	women radio producers and directors	2006
-sh2006004916	figure skating for girls	2006
 sh2006005033	african american women heroes	2006
-sh2006005179	grandmothers in literature	2006
-sh2006005582	low income mothers	2006
 sh2006005598	jewish women in art	2006
 sh2006005692	minority women in higher education	2006
 sh2006005727	women vintners	2006
@@ -471,27 +393,19 @@ sh2006008556	hindu women in literature	2007
 sh2006008557	women immigrants in literature	2007
 sh2006008763	kamia women	2006
 sh2006008765	paipai women	2006
-sh2006008768	mothers of artists	2007
-sh2006008772	christian lesbians	2006
 sh2006008955	pregnant women in advertising	2007
-sh2006008956	mothers in advertising	2007
 sh2006008959	women harpsichordists	2006
 sh2006020167	women nobel prize winners	2006
 sh2007000023	women oceanographers	2007
 sh2007000215	plus size women 's clothing	2007
 sh2007000375	ho chunk women	2007
 sh2007000694	mexican american women labor leaders	2007
-sh2007000709	mothers of emperors	2007
-sh2007000722	lesbian motorcyclists	2007
 sh2007000784	women heroes in motion pictures	2007
 sh2007000913	women and christian union	2007
 sh2007000991	female infanticide	2007
-sh2007001118	lesbian erotic films	2007
 sh2007001393	polish women poets	2007
 sh2007001555	women indianists	2007
 sh2007001737	black women musicians	2007
-sh2007001740	advertising and mothers	2007
-sh2007001744	mother and child in advertising	2007
 sh2007001776	women spies on television	2007
 sh2007001777	women spies in motion pictures	2007
 sh2007001792	women choreographers	2007
@@ -501,7 +415,6 @@ sh2007002124	gambaye women	2007
 sh2007002384	japanese american women legislators	2007
 sh2007002451	ugandan women authors	2007
 sh2007002498	women fantasy gamers	2007
-sh2007003009	lesbian physical education teachers	2007
 sh2007003099	female genital mutilation in literature	2007
 sh2007003129	women daredevils	2007
 sh2007003199	women taxicab drivers	2007
@@ -509,7 +422,6 @@ sh2007003211	women motion picture editors	2007
 sh2007003407	women drug addicts	2007
 sh2007003682	gujarati women authors	2007
 sh2007003687	métis women artists	2007
-sh2007003750	mothers of children with disabilities	2007
 sh2007003809	persian women dramatists	2007
 sh2007003964	jewish women college teachers	2007
 sh2007004140	women orange industry workers	2007
@@ -518,11 +430,9 @@ sh2007004618	yi women in art	2007
 sh2007004619	yi women	2007
 sh2007004641	asmat women	2007
 sh2007004788	white women authors	2007
-sh2007005085	mothers of murder victims	2007
 sh2007006426	czech women 's periodicals	2007
 sh2007006916	pregnant women in islamic law	2007
 sh2007006968	african american women cartoonists	2007
-sh2007007018	african american mothers in art	2007
 sh2007007019	women prisoners in art	2007
 sh2007007035	women glassworkers	2007
 sh2007007322	african american women golfers	2007
@@ -538,19 +448,14 @@ sh2007009492	chakma women	2007
 sh2007009493	rohingya women	2007
 sh2007009550	women conservatives	2007
 sh2007010259	racially mixed women in literature	2008
-sh2007010436	lesbian police officers	2007
-sh2007010794	lesbian businesswomen	2007
-sh2007010879	chewa girls	2008
 sh2007010927	asian american women authors	2008
 sh2007010967	yuchi women	2008
 sh2007020096	thai women 's periodicals	2008
 sh2008000029	women consumers in literature	2008
 sh2008000039	large breasted women	2008
 sh2008000071	new zealand women 's periodicals	2008
-sh2008000419	scottish lesbians ' writings	2008
 sh2008000538	women community health aides	2008
 sh2008001070	women athletic trainers	2008
-sh2008001076	hispanic american mothers	2008
 sh2008001096	otomi women	2008
 sh2008001252	women gladiators	2008
 sh2008001446	jewish women librarians	2008
@@ -563,7 +468,6 @@ sh2008003327	persian women authors	2008
 sh2008004535	women tattoo artists	2008
 sh2008004579	women arabists	2008
 sh2008004768	dorze women	2008
-sh2008004955	hatamotos ' wives	2008
 sh2008005366	indian women dramatists	2008
 sh2008005442	women commercial artists	2008
 sh2008005457	women blue collar workers	2008
@@ -581,10 +485,8 @@ sh2008006446	huilliche women	2008
 sh2008006704	women rap musicians	2008
 sh2008006721	women soccer referees	2008
 sh2008007341	latter day saint women missionaries	2009
-sh2008007373	fiancées	2008
 sh2008007682	women television viewers	2010
 sh2008007793	indian women in art	2008
-sh2008008075	lesbians in advertising	2008
 sh2008008078	muslim women in motion pictures	2008
 sh2008008079	advertising and women	2008
 sh2008008608	women community college presidents	2008
@@ -594,14 +496,12 @@ sh2008008842	dominican american women	2008
 sh2008008996	women and the security sector	2008
 sh2008009011	women in natural resources management	2008
 sh2008009526	women long distance runners	2008
-sh2008020016	homeless mothers	2008
 sh2008020315	druze women	2008
 sh2008025691	women radio talk show hosts	2008
 sh2008030063	siddi women	2009
 sh2008030088	female feticide	2008
 sh2009000209	women presidents in motion pictures	2009
 sh2009000210	women presidents on television	2009
-sh2009000274	mothers of suicide victims	2009
 sh2009000390	korean american women authors	2009
 sh2009000612	indian women shamans	2009
 sh2009000900	bamileke women	2009
@@ -613,14 +513,11 @@ sh2009002185	tai chi for women	2009
 sh2009002190	kurdish women poets	2009
 sh2009002447	hispanic american women college students	2009
 sh2009002536	zoroastrian women	2009
-sh2009002741	indian mothers	2009
-sh2009003403	lesbian separatism	2009
 sh2009003665	yavapai women	2009
 sh2009004805	women plantation workers	2009
 sh2009004847	women philologists	2009
 sh2009004853	jordanian women authors	2009
 sh2009004871	miskito women	2009
-sh2009004954	mothers of autistic children	2009
 sh2009004973	indian women air pilots	2009
 sh2009004975	nyarafolo women	2009
 sh2009005079	women teachers on radio	2009
@@ -632,7 +529,6 @@ sh2009006563	hutterite women	2009
 sh2009006669	romanian women authors	2009
 sh2009006745	women chief information officers	2009
 sh2009006794	female high school athletes	2009
-sh2009006795	high school girls	2009
 sh2009006905	inuit women in motion pictures	2009
 sh2009007103	women typographers	2009
 sh2009007120	alaska native women	2009
@@ -641,61 +537,41 @@ sh2009007614	sexual minority women	2009
 sh2009007717	women tomato industry employees	2009
 sh2009007780	brazilian women novelists	2009
 sh2009007789	slovenian women 's periodicals	2009
-sh2009008252	mothers of criminals	2009
+sh2009008292	national women 's monument	2009
 sh2009008362	rugby football for women	2009
 sh2009008383	unitarian women	2009
 sh2009008396	women detectives in motion pictures	2009
 sh2009008640	venezuelan women poets	2009
 sh2009008699	inuit women in art	2009
 sh2009008734	inuit women sculptors	2009
-sh2009008866	body image in girls	2009
-sh2009008867	junior high school girls	2009
-sh2009008868	physical education for girls	2009
-sh2009008869	leadership in girls	2009
-sh2009008870	physical fitness for girls	2009
-sh2009008871	exercise for girls	2009
-sh2009008872	bowling for girls	2009
 sh2009008892	female middle school athletes	2009
 sh2009008995	oriental jewish women	2009
 sh2009009019	scandinavian women poets	2009
-sh2009009233	girl guide leaders	2009
 sh2009009352	estonian women poets	2009
 sh2009009504	female juvenile delinquents in literature	2009
 sh2009009512	cambodian american women	2010
 sh2009009689	women and human security	2009
 sh2009010372	women boxers in motion pictures	2010
 sh2009010726	middle aged women in literature	2010
-sh2009010727	bride price in literature	2010
 sh2009010730	quaker women missionaries	2010
 sh2009010735	women amusement park owners	2010
-sh2009010824	mothers of executives	2010
 sh2009010894	reformed church women	2010
-sh2009011101	lesbian photographers	2010
 sh2009030060	women in the puranas	2010
 sh2009030063	gallong women	2010
 sh2010000011	women soldiers in mass media	2010
 sh2010000094	women college teachers in literature	2010
-sh2010000185	hawaiian girls	2010
-sh2010000504	lesbians in the performing arts	2010
-sh2010001144	african american mothers in literature	2010
-sh2010001714	girls on television	2010
 sh2010001721	hypertension in women	2010
-sh2010001979	soccer for girls	2010
 sh2010001980	indian women educators	2010
 sh2010002041	women torturers	2010
 sh2010002502	women heroes in mass media	2010
 sh2010002601	swedish women novelists	2010
 sh2010002616	women immigrants in motion pictures	2010
 sh2010003081	women soccer fans	2010
-sh2010003684	twin sisters	2010
-sh2010003685	quaker girls	2010
 sh2010003849	hispanic american women on television	2010
-sh2010004456	ambassador girl scouts	2010
 sh2010004807	malay women authors	2010
 sh2010006162	yanomamo women	2010
 sh2010006459	anglo indian women in literature	2010
 sh2010007778	women theater critics	2010
-sh2010008208	abandoned wives	2010
 sh2010008936	exiled women dancers	2010
 sh2010009226	women ascetics	2010
 sh2010009227	women ascetics in art	2010
@@ -707,25 +583,18 @@ sh2010011171	women in the chocolate industry	2010
 sh2010011374	women in biodiversity conservation	2010
 sh2010011497	older women athletes	2010
 sh2010011516	field hockey for women	2010
-sh2010011624	girl guides in literature	2010
 sh2010011823	korean american women golfers	2010
 sh2010012053	shaker women in literature	2010
-sh2010012123	lesbians in popular culture	2010
 sh2010012135	women soldiers on television	2010
 sh2010012227	women economics historians	2010
 sh2010012312	hispanic american bisexual women	2010
 sh2010012336	turkmen women	2010
 sh2010012541	swiss american women	2010
 sh2010012612	women volunteers	2010
-sh2010012672	lesbian couples as parents	2010
 sh2010012751	east indian women	2010
 sh2010012835	oneida women	2010
 sh2010013005	bwa women	2010
-sh2010013341	girls in mass media	2010
 sh2010013431	female generative organs in literature	2010
-sh2010013499	aggressiveness in girls	2010
-sh2010013528	mentally ill mothers	2010
-sh2010013529	children of mentally ill mothers	2010
 sh2010013605	women crab industry employees	2010
 sh2010013693	women imams	2010
 sh2010013980	kurdish women authors	2010
@@ -738,8 +607,6 @@ sh2010015466	runaway women	2011
 sh2010015467	runaway women in literature	2011
 sh2010030110	pushto women poets	2011
 sh2011000145	enslaved women in jewish law	2011
-sh2011000347	girl evangelists	2011
-sh2011000468	puerto rican lesbians ' writings	2011
 sh2011000572	sri lankan women authors	2011
 sh2011000901	single women on television	2011
 sh2011000918	women opera producers and directors	2011
@@ -750,7 +617,6 @@ sh2011001073	aleut women basket makers	2011
 sh2011001178	women professional employees	2011
 sh2011001186	jewish women philanthropists	2011
 sh2011001189	women singers in motion pictures	2011
-sh2011001278	bride 's boxes	2011
 sh2011001467	adygei women	2011
 sh2011001570	women orienteers	2011
 sh2011001975	women olympic athletes	2011
@@ -758,13 +624,10 @@ sh2011002205	australian women 's periodicals	2011
 sh2011002329	jewish women athletes	2011
 sh2011002876	women 's choirs	2011
 sh2011002905	single women in motion pictures	2011
-sh2011003085	new mothers	2011
-sh2011003285	bride price in islamic law	2011
 sh2011003986	tswana women	2011
 sh2011003988	romani women painters	2011
 sh2011003994	african american women politicians	2011
 sh2011004161	women beekeepers	2011
-sh2011004177	mass media and teenage girls	2011
 sh2011004364	emirates women award	2011
 sh2011004396	women in disaster relief	2011
 sh2011004411	women sport psychologists	2012
@@ -780,12 +643,12 @@ sh2012000311	women and the arts	2012
 sh2012000481	women in the hospitality industry	2012
 sh2012000678	female symbols	2012
 sh2012000848	albanian women authors	2012
+sh2012000883	ladies in waiting in literature	2012
 sh2012000962	women goldsmiths	2012
 sh2012001045	samsui women	2012
 sh2012001167	women in energy development	2012
 sh2012001919	female honeybees	2012
 sh2012002195	women sports spectators	2012
-sh2012002245	mothers of terrorists	2012
 sh2012002274	women superheroes	2012
 sh2012002296	jewish women basketball players	2012
 sh2012002351	malayalam women authors	2012
@@ -796,14 +659,12 @@ sh2012003221	indian women basket makers	2012
 sh2012003222	chickasaw women	2012
 sh2012003249	women puppeteers	2012
 sh2012003826	women personnel directors	2012
-sh2012004061	mothers of celebrities	2012
 sh2013000092	jewish women photographers	2013
 sh2013000149	wild women in art	2013
 sh2013000150	wild women in literature	2013
 sh2013000469	serbian women authors	2013
 sh2013000527	uzbek women poets	2013
 sh2013000536	hindi women 's periodicals	2013
-sh2013000662	gullah girls	2013
 sh2013000727	samaritan women	2013
 sh2013000871	women roller skaters	2013
 sh2013001024	chumash women	2013
@@ -811,46 +672,26 @@ sh2013001025	black seminole women	2013
 sh2013001248	french canadian women	2013
 sh2013001313	women prisoners in motion pictures	2013
 sh2013001336	haitian women poets	2013
-sh2013001400	zuni girls	2013
-sh2013001425	mothers of entertainers	2013
 sh2013001445	older navajo women	2013
-sh2013001446	indian grandmothers	2013
 sh2013001456	church group work with women	2013
 sh2013001653	oirata women	2013
-sh2013001704	lesbian erotic poetry	2013
-sh2013001705	american lesbian erotic poetry	2013
-sh2013001706	canadian lesbian erotic poetry	2013
-sh2013001707	english lesbian erotic poetry	2013
-sh2013001708	lesbian erotic stories	2013
-sh2013001709	american lesbian erotic stories	2013
-sh2013001710	canadian lesbian erotic stories	2013
-sh2013001713	english lesbian erotic stories	2013
 sh2013001753	women insurance investigators	2013
 sh2013001909	african american women newspaper editors	2013
-sh2013002196	māori girls	2013
 sh2013002237	indian women photographers	2013
 sh2013002270	karen women	2013
-sh2013002418	black lesbians	2013
 sh2013002507	women temporary employees	2013
 sh2013002750	women sadhus	2013
-sh2013003063	filipino american teenage girls	2013
 sh2013003094	kurdish women 's periodicals	2013
-sh2013003140	lumbee girls	2013
 sh2013003164	afghan women authors	2013
-sh2013003654	pueblo girls	2013
 sh2014000076	bolivian women novelists	2014
 sh2014000253	creek women	2014
-sh2014000466	mothers of artists in art	2014
 sh2014000497	palestinian arab women authors	2014
 sh2014000556	murzu women	2014
 sh2014000573	chorti women	2014
-sh2014000680	puerto rican lesbian erotic poetry	2014
-sh2014000681	mexican lesbian erotic poetry	2014
 sh2014000749	waccamaw women	2014
 sh2014000751	khasi women	2014
 sh2014000752	jaintia women	2014
 sh2014000821	czech women poets	2014
-sh2014000843	ojibwa girls	2014
 sh2014000959	african american women aerospace engineers	2014
 sh2014001126	stó:lō women	2014
 sh2014001128	indian women artisans	2014
@@ -863,36 +704,25 @@ sh2014001902	latter day saint women authors	2014
 sh2014001991	mexican women poets	2014
 sh2014002172	female impersonators on television	2014
 sh2014002338	women kapos	2014
-sh2014002540	indian single mothers	2014
 sh2014002661	tattooed women	2014
-sh2014002699	western apache girls	2014
 sh2014002789	indian women singers	2014
 sh2014002827	women mathematics teachers	2014
-sh2014100251	quechua teenage girls	2014
 sh2015000044	female infertility in art	2015
 sh2015000180	indian women jewelers	2015
-sh2015000312	pakistani american teenage girls	2015
 sh2015000363	african american bisexual women	2015
 sh2015000463	indian women politicians	2015
-sh2015000477	unmarried mothers in motion pictures	2015
 sh2015000479	yiddish women authors	2015
-sh2015000571	black teenage girls	2015
 sh2015000588	african american women in art	2015
-sh2015000665	preteen girls	2015
 sh2015000799	women parolees	2015
 sh2015000905	women doctoral students	2015
 sh2015000924	métis women authors	2015
 sh2015000952	african american women performance artists	2015
 sh2015001148	indian women college students	2015
-sh2015001247	nez percé girls	2015
-sh2015001405	mothers of political prisoners	2015
 sh2015001475	women in musical theater	2015
 sh2015001551	indian women sculptors	2015
-sh2015001552	inuit mothers	2015
 sh2015001593	navajo women in art	2015
 sh2015001663	tamil women poets	2015
 sh2015001692	havasupai women	2015
-sh2015001753	hopi girls	2015
 sh2015001857	sumi naga women	2015
 sh2015001877	otavalo women	2015
 sh2015001960	indian women entertainers	2015
@@ -913,14 +743,12 @@ sh2016000397	romanian women poets	2016
 sh2016000568	minority women college teachers	2016
 sh2016000573	mon women	2016
 sh2016000740	women noncitizens	2016
-sh2016000816	girls in music	2016
 sh2016001033	turkish women	2016
 sh2016001034	cypriot women	2016
 sh2016001039	women tourists	2016
 sh2016001203	nahua women weavers	2016
 sh2016001415	russian american women	2016
 sh2016001447	abused women in art	2016
-sh2016001503	osage girls	2016
 sh2016001530	women athletes with disabilities	2016
 sh2016001536	turkmen women authors	2016
 sh2016001622	orang asli women	2016
@@ -937,23 +765,17 @@ sh2016002648	women punk rock musicians	2016
 sh2016002649	women alternative rock musicians	2016
 sh2016002724	caingua women	2016
 sh2016002768	white women teachers	2016
-sh2016002902	mothers of racially mixed children	2016
 sh2017000005	women video gamers	2017
 sh2017000033	women snowboarders	2017
 sh2017000089	shan women	2017
-sh2017000159	autistic girls	2017
-sh2017000160	asperger 's syndrome in girls	2017
 sh2017000213	women video game designers	2017
-sh2017000216	mothers of rock musicians	2017
 sh2017000318	women superheroes in motion pictures	2017
 sh2017000319	women superheroes on television	2017
 sh2017000320	women superheroes in literature	2017
 sh2017000336	women cricket players	2017
 sh2017002945	nicaraguan women poets	2017
 sh2017002954	women triathletes	2017
-sh2017003069	motion pictures for teenage girls	2017
 sh2017003071	women ambulance drivers	2017
-sh2017003137	mothers of prematurely born children	2017
 sh2017003267	women athletes in art	2017
 sh2017003301	jewish women in popular culture	2017
 sh2017003302	jewish women comedians	2017
@@ -964,22 +786,78 @@ sh2017004023	women skateboarders	2017
 sh2017004114	comfort women in art	2017
 sh2017004217	african american women basketball players	2017
 sh2017004513	women football coaches	2017
-sh2017004614	lesbian figure skaters	2017
 sh2017004711	african american women rowers	2017
 sh2017004712	african american women olympic athletes	2017
 sh2017004715	women sports executives	2017
 sh2017004716	african american women sports executives	2017
-sh2017004796	catalan lesbians ' writings	2017
 sh2017004855	women lithographers	2017
 sh2017004893	woodland women	2017
 sh2017004920	women water skiers	2017
 sh2017005031	cameroonian women authors	2017
 sh2017005075	women computer artists	2017
-sh2017005126	lesbian soccer players	2017
 sh2017005256	clatsop women	2017
-sh85000957	teenage girls	2001
-sh85001783	african american teenage mothers	2000
-sh85001859	african american lesbians	2000
+sh2018000575	osage women	2018
+sh2018000825	tumors in women	2018
+sh2018000974	mang women	2018
+sh2018001219	women muralists	2018
+sh2018001231	women in lexicography	2018
+sh2018001431	romani women poets	2018
+sh2018001771	bidayuh women	2018
+sh2018001946	women in science on television	2018
+sh2018001995	female offenders in mass media	2018
+sh2018002086	minority women law teachers	2018
+sh2018002320	iraqi american women	2018
+sh2018002562	african american women pacifists	2018
+sh2018002563	african american women school administrators	2018
+sh2018002623	transgender women	2018
+sh2018002725	bilen women	2018
+sh2018002884	alevi women	2018
+sh2018002952	shiite women	2018
+sh2018002988	female seminaries	2018
+sh2018002989	music in female seminaries	2018
+sh2018003018	women in ancient law	2018
+sh2018003191	slovenian american women	2018
+sh2018003210	women american loyalists	2018
+sh2019000430	older sexual minority women	2019
+sh2019000500	azerbaijani women authors	2019
+sh2019000526	women ragpickers	2019
+sh2019001953	pakistani women authors	2019
+sh2019003632	older women authors	2019
+sh2019100121	women atomic bomb victims	2019
+sh2019101314	belarusian women poets	2019
+sh2019102662	african american women suffragists	2019
+sh2019102804	african american women jewel thieves	2019
+sh2019102806	women jewel thieves	2019
+sh2019103373	nigerian american young women	2019
+sh2019103382	women sound engineers	2019
+sh2019103592	women divers in art	2019
+sh2020000007	women soldiers in motion pictures	2020
+sh2020000146	sleep apnea syndromes in women	2020
+sh2020000147	sleep disorders in women	2020
+sh2020000253	football for women	2020
+sh2020000363	minority women in mass media	2020
+sh2020000395	african american women superheroes	2020
+sh2020000504	minority transgender women	2020
+sh2020000580	women sprinters	2020
+sh2020000581	african american women sprinters	2020
+sh2020000700	wiru women	2020
+sh2020001089	minority women activists	2020
+sh2020005528	indian women elders	2020
+sh2020005963	women and design	2020
+sh2020006320	women slaveholders	2020
+sh2020006658	women polo players	2020
+sh2020006676	women saints in literature	2020
+sh2020006719	women in peace building	2020
+sh2020006789	women popular music fans	2020
+sh2020008115	eurasian women	2020
+sh2020008750	women occultists	2020
+sh2020008848	korean american women cartoonists	2020
+sh2020008849	korean american women illustrators	2020
+sh2020008889	hispanic american women political activists	2020
+sh2020010043	women superheroes in mass media	2020
+sh2020010503	black women household employees	2020
+sh2020012240	women hikers	2020
+sh2020012260	buddhist women in art	2020
 sh85001923	african american women	2000
 sh85001926	african american women athletes	2000
 sh85001927	african american women authors	2000
@@ -992,18 +870,14 @@ sh85053831	female generative organs	2000
 sh85058711	women with disabilities	2001
 sh85064634	female impersonators	2006
 sh85067458	1975 international women 's year	2000
-sh85076155	lesbian mothers	2005
 sh85076654	libraries and women	2001
 sh85084998	middle aged women	2005
-sh85087540	mother 's day	2006
 sh85108934	puerto rican women	2000
 sh85119731	self defense for women	2001
 sh85119742	self employed women	2000
-sh85121749	shoguns ' wives	2003
 sh85124172	women with social disabilities	2001
 sh85126877	sport clothes for women	2003
 sh85136448	track and field for women	2001
-sh85146637	wife abuse	2005
 sh85147357	aboriginal australian women	2003
 sh85147369	deaf women	2001
 sh85147380	kabiye women	2005
@@ -1037,15 +911,10 @@ sh85147728	women truck drivers	2000
 sh85147731	women veterinary students	2000
 sh85147737	women 's clothing industry	2003
 sh85147765	women 's rights	2000
-sh86000489	gifted girls	2001
-sh86002214	lesbians ' writings	2005
-sh86003833	abused lesbians	2005
 sh86003834	african american women artists	2000
-sh86004768	older lesbians	2004
 sh86005154	african american women poets	2000
 sh87000312	african american women diplomats	2000
 sh87004821	women cooks	2000
-sh87007811	african american teenage girls	2000
 sh88000055	women chemists	2000
 sh88000058	african american women chemists	2000
 sh88000075	women mayors	2000
@@ -1064,12 +933,10 @@ sh89006532	women theatrical producers and directors	2000
 sh89006763	white women	2004
 sh89006919	hawaiian women	2004
 sh90000092	japanese american women	1990
-sh90000416	girls in motion pictures	1990
 sh90000452	bengali women authors	1990
 sh90000844	judo for women	1990
 sh90000849	women surveyors	2000
 sh90000952	karamojong women	1990
-sh90001188	daisy girl scouts	1990
 sh90001293	kela women	1990
 sh90001502	māori women	1990
 sh90001621	women drug dealers	2005
@@ -1090,10 +957,7 @@ sh90004580	sambia women	1990
 sh90004581	baruya women	1990
 sh90004855	women 's history week	1990
 sh90005362	music by women composers	2005
-sh90005798	middle aged lesbians	2005
 sh90005906	akha women	1990
-sh90005910	mothers of christian saints	1990
-sh90006058	mexican american lesbians	1990
 sh90006253	assamese women authors	1990
 sh91000463	assertiveness in women	1991
 sh91000527	tonga women	1991
@@ -1106,7 +970,6 @@ sh91001423	women fashion designers	1991
 sh91001563	women abolitionists	1991
 sh91001645	women carcinologists	1991
 sh91001680	women pediatricians	1991
-sh91001711	hispanic american lesbians	1991
 sh91001727	commonwealth women authors	1991
 sh91001742	self esteem in women	1991
 sh91001885	women botanists	1991
@@ -1138,12 +1001,9 @@ sh91004532	women in the humanities	1991
 sh91004533	women plant pathologists	1991
 sh91004614	portuguese american women	1991
 sh91004763	women school principals	1991
-sh91005278	abusive mothers	1991
-sh91005359	lesbian athletes	1991
 sh91005364	women biblical scholars	1991
 sh91005458	women park rangers	1991
 sh91005496	black women composers	1991
-sh91005554	canadian lesbians ' writings	1991
 sh91005595	burmese women	1991
 sh91005626	shona women	1991
 sh91005890	women 's history month	1991
@@ -1165,7 +1025,6 @@ sh92001695	mentally ill women	1992
 sh92001749	women optometrists	1992
 sh92001761	kurumba women	1992
 sh92001850	kipsigis women	1992
-sh92001897	games for girls	1992
 sh92001933	wild women	1992
 sh92001952	ukrainian women poets	1992
 sh92002103	women history teachers	1992
@@ -1194,7 +1053,6 @@ sh92005107	protestant women	1992
 sh92005110	women test pilots	1992
 sh92005606	romani women	2001
 sh92005618	tigrinya women	1992
-sh92005735	australian lesbians ' writings	1992
 sh92005827	dorobo women	1992
 sh92006173	women biologists	1992
 sh92006174	women copy writers	1992
@@ -1212,7 +1070,6 @@ sh93000362	comfort women	1993
 sh93000363	women 's volunteer labor corps	1993
 sh93000546	women political scientists	1993
 sh93000588	women biographers	1993
-sh93000705	lesbian feminism	1993
 sh93000852	!kung women	1993
 sh93001048	mukkuvar women	1993
 sh93001290	women radicals	1993
@@ -1222,13 +1079,11 @@ sh93001795	women jewish scholars	1993
 sh93001833	women presidents	1993
 sh93002501	armenian american women	1993
 sh93002512	bisexual women	1993
-sh93002548	lesbian actresses	2001
 sh93002664	african american women cooks	2000
 sh93002666	african american women mathematicians	2000
 sh93002699	women in fundamentalist churches	1993
 sh93002781	female genital mutilation	2003
 sh93003040	songhai women	1993
-sh93003100	lesbians on postage stamps	1993
 sh93003304	women on postage stamps	1993
 sh93003344	women jazz singers	1993
 sh93003545	heterosexual women	1993
@@ -1239,22 +1094,18 @@ sh93003923	berawan women	1993
 sh93003940	irish women poets	1993
 sh93004165	ganda women	1993
 sh93004370	women industrial engineers	1993
-sh93004417	war brides	1993
 sh93004758	munda women	1993
-sh93004807	sisters in the bible	1993
 sh93005008	women cleaning personnel	1993
 sh93005041	shawiya women	1993
 sh93005060	women music critics	1993
 sh93005145	women archaeology teachers	2000
 sh93005148	women classicists	1993
-sh93005205	lesbian teenagers	1993
 sh93005210	women 's bookstores	1993
 sh93005222	women 's music	1993
 sh93005631	women political consultants	1993
 sh93005661	women stunt performers	1993
 sh93005698	arabic women 's periodicals	1993
 sh93005737	self perception in women	1993
-sh93005742	teenage girls in popular culture	1993
 sh93005743	women in tantric buddhism	1993
 sh93005756	korean women poets	1993
 sh93005940	turkish women 's periodicals	1993
@@ -1266,9 +1117,7 @@ sh93006620	women radio writers	1993
 sh93006681	minority women artists	1993
 sh93006722	women gamblers	1993
 sh93006759	women ghostwriters	1993
-sh93006808	lesbian students	1993
 sh93006819	women libertarians	1993
-sh93006822	working class lesbians	1993
 sh93007044	peruvian women poets	1993
 sh93007111	nyaturu women	1993
 sh93007182	sami women	1993
@@ -1361,10 +1210,7 @@ sh93008761	women agricultural economists	1993
 sh93009119	women theatrical managers	2000
 sh93009552	women in nonprofit organizations	1993
 sh94000012	mexican american women agricultural laborers	1994
-sh94000052	dominican american girls	1994
 sh94000070	women coffee growers	1994
-sh94000119	lesbians and sports	1994
-sh94000368	russian lesbians ' writings	1994
 sh94000390	women child molesters	1994
 sh94000664	coeur d 'alene women	1994
 sh94000883	ndebele women	1994
@@ -1392,15 +1238,12 @@ sh94002517	women pacifists	1994
 sh94002614	african american women law teachers	2000
 sh94002746	tuareg women	1994
 sh94003082	vietnamese american women	1994
-sh94003133	girls ' clothing	2003
 sh94003187	women lighthouse keepers	1994
-sh94003247	bat girls	1994
 sh94003271	quiché women	1994
 sh94003321	african american women novelists	2000
 sh94003352	chinese american women in literature	1994
 sh94003436	african american women social reformers	2001
 sh94003800	women benefactors	1994
-sh94004215	females in literature	1994
 sh94004494	diola women	1994
 sh94004589	hispanic american women in literature	1994
 sh94004608	bemba women	1994
@@ -1409,7 +1252,6 @@ sh94004888	women ambassadors	1994
 sh94005115	women church officers	1994
 sh94005177	women analysands	1994
 sh94005448	tzotzil women	1994
-sh94005486	african american girls	2000
 sh94005504	mexican women authors	1994
 sh94005535	women employees	1994
 sh94005900	museums and women	1994
@@ -1419,38 +1261,27 @@ sh94006133	women and democracy	1994
 sh94006136	hockey for women	1994
 sh94006164	married women in literature	1994
 sh94006178	women ichthyologists	1994
-sh94006245	lesbians in literature	1994
 sh94006255	argentine women authors	1994
 sh94006492	amish women	1994
-sh94006526	lesbian artists	1994
 sh94006612	mexican american women in literature	1994
 sh94006644	minority women in literature	1994
-sh94006690	mother and child in literature	1994
-sh94006691	mothers and daughters in literature	1994
-sh94006693	mothers in law in literature	1994
+sh94006943	vietnam women 's memorial	2006
 sh94007239	women historians of science	1994
 sh94007241	women historians of technology	1994
 sh94007244	women medical historians	1994
-sh94007371	african american single mothers	2000
 sh94007637	german american women	1994
-sh94007725	muslim girls	1994
 sh94007823	women with disabilities in literature	2001
 sh94007913	torres strait islander women	1994
 sh94007930	black women social workers	1994
 sh94007931	black women college teachers	1994
-sh94008021	lesbian dramatists	1994
 sh94008028	swedish american women entertainers	1994
-sh94008034	lesbian theater	1994
 sh94008152	powhatan women	1994
 sh94008512	women curriculum consultants	1994
 sh94008513	women library trustees	1994
 sh94008560	rural women in literature	1994
 sh94008657	african american women journalists	2000
-sh94008848	unmarried mothers in literature	1994
 sh94008951	discrimination against overweight women	1994
-sh94009000	salvadoran american girls	1994
 sh94009068	white women in literature	2004
-sh94009131	teenage girls in literature	1994
 sh94009170	aboriginal australian women in literature	2003
 sh94009172	black women in literature	1994
 sh94009173	women artists in literature	1994
@@ -1468,10 +1299,8 @@ sh94009190	women 's rights in literature	1994
 sh94009195	working class women in literature	1994
 sh94009213	sotho women	1994
 sh94009242	african american women abolitionists	2000
-sh94009341	sisters in literature	1994
 sh94009544	harari women	1994
 sh94009722	latin american women authors	1994
-sh95000120	lesbian artists in popular culture	1995
 sh95000146	chilean women authors	1995
 sh95000195	sexual ethics for women	1995
 sh95000300	women deans	1995
@@ -1479,15 +1308,11 @@ sh95000352	african american women astronauts	2000
 sh95000859	women helicopter pilots	2000
 sh95000915	women shepherds	1995
 sh95000994	women in insurance	1995
-sh95001069	lesbian cartoonists	1995
-sh95001078	lesbian youth	1995
 sh95001555	african american women pioneers	2001
 sh95001660	women governors	2000
 sh95001713	women marine engineers	1995
 sh95002674	tayal women	1995
 sh95002754	yombe women	2004
-sh95002774	palestinian american girls	1995
-sh95002842	girl volunteers	1995
 sh95002978	mexican american women healers	1995
 sh95003209	female condoms	1995
 sh95003227	hiv positive women	1995
@@ -1510,43 +1335,33 @@ sh95004277	vietnamese women authors	1995
 sh95004279	scottish women authors	1995
 sh95004280	indic women authors	1995
 sh95004290	african american women legislators	2000
-sh95004337	heterosexual mothers	1995
 sh95004482	women printmakers	1995
 sh95004545	indian women artists	1995
 sh95004646	jaina women saints	1995
 sh95005027	women and philology	1995
-sh95005051	lesbian consumers	1995
 sh95005071	irish women authors	1995
 sh95005408	women medalists	1995
 sh95005816	women on bank notes	1995
-sh95005870	lesbian community	2006
-sh95005880	lesbian anthropologists	1995
 sh95005961	greek women authors	1995
 sh95006194	abusive women	2000
 sh95006346	women landowners	1995
 sh95006362	mentally ill women in literature	1995
-sh95006368	spanish american lesbians ' writings	1995
 sh95006398	national socialism and women	1995
 sh95006630	haya women	1995
 sh95006691	international women 's day	1995
 sh95006932	shuar women	1995
 sh95006934	achuar women	1995
 sh95007016	women library administrators	1995
-sh95007099	apache girls	1995
 sh95007102	navajo women shepherds	1995
 sh95007109	navajo women weavers	1995
 sh95007113	women weavers	1995
 sh95007135	nyishangba women	1995
-sh95007142	puritan girls	1995
-sh95007170	girl photographers	1995
 sh95007205	yuin women	1995
 sh95007268	women engineering students	1995
 sh95007270	women library employees	1995
 sh95007451	women science students	1995
 sh95007473	african american women air pilots	2000
-sh95007508	lesbian college students	1995
 sh95007574	women botanizers	1995
-sh95007579	changing woman ceremony	1995
 sh95007609	women pathologists	1995
 sh95007675	galician women authors	1995
 sh95007968	builsa women	1995
@@ -1555,9 +1370,7 @@ sh95007991	southeast asian women novelists	1995
 sh95008149	minority women lawyers	1995
 sh95008241	women physician executives	1995
 sh95008567	women school superintendents	1995
-sh95008660	cadette girl scouts	1995
 sh95008661	serer women	1995
-sh95008662	senior girl scouts	1995
 sh95008998	women bacteriologists	1995
 sh95008999	women microbiologists	1995
 sh95009085	pygmy women	1995
@@ -1578,7 +1391,6 @@ sh95009856	women and death	1995
 sh95010009	women hop pickers	1995
 sh95010022	bobo dioula women	1995
 sh95010094	cooperativeness in women	1995
-sh95010234	filipino american girls	1995
 sh95010363	women serial murderers	1995
 sh95010485	leadership in women	1995
 sh95010909	tangkhul women	1995
@@ -1592,27 +1404,19 @@ sh96001136	women glass artists	1996
 sh96001169	women fishing guides	1996
 sh96001343	women physical anthropologists	1996
 sh96001539	african american women healers	2000
-sh96001637	mail order brides	2004
 sh96001748	african american women political activists	2000
 sh96001750	filipino american women	1996
-sh96001956	cuban american lesbians	1996
 sh96002020	chewa women	1996
 sh96002068	penobscot women	1996
 sh96002069	korean american women journalists	1996
 sh96002140	inuit women artists	1996
 sh96002205	women attorneys general	1996
-sh96002212	volleyball for girls	1996
-sh96002454	mothers in motion pictures	1996
 sh96002862	zoque women	1996
-sh96002986	lesbian nurses	1996
-sh96003271	lesbian psychotherapists	1996
 sh96003412	bijago women	1996
 sh96003492	women water utility employees	1996
-sh96003496	lesbian heroes	2005
 sh96003498	women heroes	1996
 sh96003532	warlpiri women	1996
 sh96004085	gamo women	1996
-sh96004096	battered woman syndrome	1996
 sh96004144	women egyptologists	2005
 sh96004147	women area specialists	1996
 sh96004148	women specialists	1996
@@ -1624,13 +1428,9 @@ sh96004255	women marine biologists	1996
 sh96004257	women aquatic biologists	1996
 sh96004258	women aquatic scientists	1996
 sh96004393	yankton women	1996
-sh96004657	maasai girls	1996
-sh96004953	yupik girls	1996
-sh96004971	shoshoni girls	1996
 sh96006041	shooting for women	1996
 sh96006468	french women poets	1996
 sh96006491	guarani women	1996
-sh96006522	cree girls	1996
 sh96006759	mbuti women	1996
 sh96006787	women rabbis	2000
 sh96006865	filipino american women artists	1996
@@ -1638,14 +1438,11 @@ sh96006903	russian women 's periodicals	1996
 sh96006944	women blues musicians	1996
 sh96006951	filipino american women authors	1996
 sh96006978	moravian women	1996
-sh96007024	jewish lesbians	1996
 sh96007100	women insurance executives	1996
-sh96007206	lesbian erotic art	1999
 sh96007283	chiapanec women	1996
 sh96007495	khmu ' women	1996
 sh96007510	senufo women	1996
 sh96007511	minianka women	1996
-sh96007532	lesbian activists	1996
 sh96007717	female nude in art	1996
 sh96007729	women art collectors	1996
 sh96007730	women collectors	1996
@@ -1668,14 +1465,10 @@ sh96009135	women speed skaters	1996
 sh96009182	young women in literature	1996
 sh96009194	women employees in literature	1996
 sh96009222	enga women	1996
-sh96009317	lesbian college teachers	1996
 sh96009374	women tramps	1996
-sh96009484	franciscan sisters	1996
 sh96009560	indian women healers	1996
 sh96009605	women politicians	2003
 sh96009660	austrian women 's periodicals	1996
-sh96009684	lesbian musicians	1996
-sh96009722	girls in popular culture	1996
 sh96009801	african american women screenwriters	2000
 sh96009803	african american women school principals	2000
 sh96009820	mexican american women college teachers	1996
@@ -1689,21 +1482,14 @@ sh96011634	nicaraguan american women	1996
 sh96011685	african american women storytellers	2000
 sh96011687	women storytellers	1996
 sh96011693	women type designers	1996
-sh96011701	asian american lesbians	1996
-sh96011916	mother goddesses in art	1996
 sh96011921	muslim women in art	1996
 sh96012223	white women in art	2004
 sh96012224	women automobile drivers in art	1996
-sh97000046	japanese american mothers	1997
-sh97000148	nanticoke girls	1997
 sh97000379	older hispanic american women	2004
 sh97000487	pregnant women in art	1997
-sh97000545	indian lesbians	1997
-sh97000568	sisters in art	1997
 sh97000680	women 's prayer groups	1997
 sh97000769	women animal trainers	1997
 sh97000794	arab women	1997
-sh97001053	etiquette for lesbians	1997
 sh97001114	african american women in advertising	2000
 sh97001313	garifuna women	2005
 sh97001322	karanga women	1997
@@ -1712,7 +1498,6 @@ sh97001535	jewish women in the holocaust	1997
 sh97001743	logooli women	1997
 sh97001811	brazilian women authors	1997
 sh97001886	bini women	1997
-sh97001911	lesbians in art	1997
 sh97002227	women volleyball players	1997
 sh97002258	basque women poets	1997
 sh97002393	motion pictures and women	1997
@@ -1724,7 +1509,6 @@ sh97002732	women musicians in art	1997
 sh97002733	women prophets in art	1997
 sh97002737	working class women in art	1997
 sh97002764	women accordionists	1997
-sh97002791	ordination of lesbians	1997
 sh97002859	body image in women	1997
 sh97002916	indian women potters	1997
 sh97002939	israeli women authors	1997
@@ -1747,7 +1531,6 @@ sh97003886	christian women martyrs	1997
 sh97004038	women theologians	1997
 sh97004087	women chief executive officers	1997
 sh97004189	women biochemists	1997
-sh97004191	infant girls	1997
 sh97004215	grasia women	1997
 sh97004234	women geophysicists	1997
 sh97004500	women marine scientists	1997
@@ -1759,34 +1542,27 @@ sh97004863	women political candidates	1997
 sh97004866	women music patrons	1997
 sh97004927	asian american women employees	1997
 sh97004928	arapaho women	1997
-sh97004945	italian american girls	1997
 sh97005028	tiwa women	2001
 sh97005073	hispanic american women television personalities	1997
 sh97005214	women cyclists	1997
-sh97005461	hispanic american teenage mothers	1997
 sh97005658	depression in women	1997
-sh97005671	bozo girls	1997
-sh97006080	irish lesbians ' writings	1997
 sh97006169	women computer scientists	1997
-sh97006243	lesbian girl scouts	1997
 sh97006315	women in confucianism	1997
 sh97006318	african american middle aged women	2005
 sh97006321	indian women employees	1997
-sh97006330	shona girls	1997
 sh97006355	purépecha women	1997
 sh97006373	women computational neuroscientists	1997
 sh97006415	women food writers	1997
 sh97006449	hopi women potters	1997
 sh97006451	tewa women potters	1997
 sh97006569	women justices of the peace	1997
-sh97006642	rural lesbians	1997
 sh97006752	women park employees	1997
 sh97006753	african american women park employees	2000
-sh97006797	mexican american teenage girls	1997
 sh97006801	vietnamese women poets	1997
 sh97006909	women boxers	1997
 sh97007002	warao women	2002
 sh97007102	brazilian women dramatists	1997
+sh97007115	nigeria women 's revolt 1929	1997
 sh97007168	anxiety in women	1997
 sh97007310	women ship captains	1997
 sh97007544	filipino women authors	1997
@@ -1794,21 +1570,18 @@ sh97007601	filipino women poets	1997
 sh97007623	ingano women	1997
 sh97007815	minority women educators	1997
 sh97007860	cayapa women	1997
-sh97007954	lesbian librarians	1997
 sh97007958	african american women lawyers	2000
 sh97008124	heart diseases in women	1997
 sh97008171	buhid women	1997
-sh97008221	children of teenage mothers	1997
 sh97008236	cancer in women	1997
-sh97008273	wife abuse in jewish law	1997
 sh97008285	osteoporosis in women	1997
 sh97008442	african american women teachers	1997
 sh97008474	women martial artists	1997
 sh97008487	black women teachers	1997
 sh97008636	moro women	1997
-sh97008679	libraries and lesbians	2001
 sh97008771	women shamans	1997
 sh97008835	women cartographers	1997
+sh97008954	leading ladies	1997
 sh97009013	radio and women	1997
 sh97009029	turkana women	1997
 sh97009077	women and erotica	1997
@@ -1825,11 +1598,7 @@ sh98000815	women freethinkers	1998
 sh98000833	women drummers	1998
 sh98000868	mazahua women	1998
 sh98000946	tunisian women authors	1998
-sh98001098	german lesbians ' writings	1998
 sh98001516	women in operetta	1998
-sh98001618	white teenage mothers	2004
-sh98001660	girl scout cookies	1998
-sh98001770	church work with unmarried mothers	1998
 sh98002120	slovenian women authors	1998
 sh98002253	women embroidery industry employees	1998
 sh98002435	ifugao women	1998
@@ -1840,28 +1609,19 @@ sh98003062	danish women 's periodicals	1998
 sh98003260	indian women in literature	1998
 sh98003390	iranian american women	1998
 sh98003391	iroquoian women	1998
-sh98003596	mothers of prime ministers	1998
 sh98003652	dominican women authors	1998
 sh98003947	women in public worship	1998
-sh98004004	mothers of street children	1998
 sh98004178	ukrainian women 's periodicals	1998
 sh98004220	ecuadorian women authors	1998
 sh98004308	gisiga women	2003
 sh98004335	women softball players	1998
-sh98004411	lesbians in mass media	1998
-sh98004546	nguni girls	1998
 sh98004614	aboriginal australian women artists	2003
-sh98004620	hispanic american teenage girls	1998
 sh98004652	canadian women 's periodicals	1998
-sh98004728	lesbian business enterprises	1998
 sh98004884	comanche women	1998
 sh98005002	flemish women authors	1998
-sh98005011	tewa girls	1998
 sh98005107	tall women	1998
 sh98005126	african american women physicians	2000
 sh98005144	women 's hats	2003
-sh98005163	hispanic american single mothers	1998
-sh98005226	chiricahua girls	1998
 sh98005310	east indian american women	1998
 sh98005317	pakistani american women	1998
 sh98005505	haitian american women surgeons	1998
@@ -1870,20 +1630,13 @@ sh98005563	women transplant surgeons	1998
 sh98005650	guatemalan american women	1998
 sh98005677	african american women school superintendents	2000
 sh98005745	women in music	1998
-sh98005766	handicraft for girls	1998
 sh98005786	women computer engineers	1998
 sh98005789	central american women authors	1998
 sh98005792	women admirals	1998
-sh98005799	money making projects for girls	1998
 sh98005835	bannock women	1998
 sh98005851	narrinyeri women	1998
 sh98005948	women basketball coaches	1998
-sh98005950	girls ' bedrooms	1998
-sh98005977	poor girls	1998
 sh98006295	african american women singers	2000
-sh98006583	pacific islander american lesbians	1998
-sh98006734	navajo girls	1998
-sh98006754	aunts in literature	1998
 sh98006799	israeli women poets	1998
 sh98006852	women election officials	1998
 sh98006873	women ecologists	1998
@@ -1900,22 +1653,16 @@ sh98007602	upper class women	1998
 sh98007612	basque american women	1998
 sh98007628	kumauni women	1998
 sh98007666	manyika women	1998
-sh98007820	minority lesbians	1998
 sh98007832	micmac women	1998
 sh98008005	women swimmers	1998
 sh98008048	cakchikel women	1998
 sh98008059	carrier women	1998
-sh98008171	granddaughters	1998
-sh99000048	mothers of priests	1999
 sh99000097	hungarian women authors	1999
 sh99000202	tainui women	1999
 sh99000245	women service industries workers	1999
 sh99000400	women forensic anthropologists	1999
 sh99000412	swedenborgian women	1999
 sh99000494	episcopalian women	1999
-sh99000750	brides	1999
-sh99000764	mothers of authors	1999
-sh99000844	girls ' pants	1999
 sh99000938	french canadian women authors	1999
 sh99000957	minahasa women	1999
 sh99001152	women lyricists	1999
@@ -1930,7 +1677,6 @@ sh99002066	women linguists	1999
 sh99002148	egyptian american women	1999
 sh99002318	women fishery scientists	2006
 sh99002396	female friendship in literature	1999
-sh99002400	girls ' computer network resources	1999
 sh99002861	women textile workers in literature	1999
 sh99003279	women 's music festivals	1999
 sh99003287	tibetan women	1999
@@ -1943,34 +1689,22 @@ sh99003975	fly fishing for women	1999
 sh99004067	nigerian women authors	1999
 sh99004220	african american women educators	2000
 sh99004495	african american women surgeons	2000
-sh99004498	venda girls	1999
 sh99004519	persian women poets	1999
 sh99004643	african american women entertainers	2000
 sh99010072	abused women in literature	1999
 sh99010162	social work with minority women	1999
-sh99010356	sisters in motion pictures	1999
-sh99010436	african american mothers	2000
 sh99010478	hausa women authors	1999
 sh99010508	irish women dramatists	1999
 sh99010901	women spiritual directors	1999
-sh99010902	mothers of exceptional children	1999
 sh99010965	women beadworkers	1999
 sh99011076	chiricahua women	1999
 sh99011187	baka women	1999
 sh99012457	danube swabian women	1999
-sh99012952	mothers in the bible	1999
-sh99013080	social work with lesbian youth	1999
 sh99013083	mandan women	1999
 sh99013084	hidatsa women	1999
 sh99013196	balanta women	1999
-sh99013454	foster mothers	2005
-sh99013697	teenage girls in motion pictures	1999
 sh99013886	mossi women	1999
-sh99013887	bemba girls	1999
 sh99013973	greek women poets	1999
-sh99014454	lesbian erotica	1999
 sh99014484	women of europe award	1999
 sh99014679	christian women	1999
 sh99014701	women private investigators	1999
-sh99014708	lesbian authors	2003
-sh99014709	hockey for girls	1999

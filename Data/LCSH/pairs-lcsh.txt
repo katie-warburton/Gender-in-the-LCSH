@@ -1,74 +1,12 @@
-Men with mental disabilities	Women with mental disabilities
-African American men in motion pictures	African American women in motion pictures
-Men in education	Women in education
-Men and literature	Women and literature
-Jewish men in literature	Jewish women in literature
-Asian American men in motion pictures	Asian American women in motion pictures
-Heterosexual men in motion pictures	Heterosexual women in motion pictures
-Single men in literature	Single women in literature
-Men in music	Women in music
-Older men in art	Older women in art
-Men in comics	Women in comics
-African American men in comics	African American women in comics
-Men in art	Women in art
-Men in church work	Women in church work
-Men in literature	Women in literature
-Men in motion pictures	Women in motion pictures
-Wild men in literature	Wild women in literature
-Men in mass media	Women in mass media
-Men in popular culture	Women in popular culture
-African American men in literature	African American women in literature
-Older men in literature	Older women in literature
-Men in the Bible	Women in the Bible
-Young men in literature	Young women in literature
-Men on television	Women on television
-Men with disabilities	Women with disabilities
-African American men in art	African American women in art
-Men in advertising	Women in advertising
-Wild men in art	Wild women in art
-African American men in popular culture	African American women in popular culture
-Cantatas (Men's voices)	Cantatas (Women's voices)
-Men's health services	Women's health services
-Men's choirs	Women's choirs
-Cantatas, Sacred (Men's voices)	Cantatas, Sacred (Women's voices)
-Cantatas, Secular (Men's voices)	Cantatas, Secular (Women's voices)
-Choruses, Sacred (Men's voices)	Choruses, Sacred (Women's voices)
-Choruses, Sacred (Men's voices, 4 parts)	Choruses, Sacred (Women's voices, 4 parts)
-Choruses, Sacred (Men's voices, 4 parts), Unaccompanied	Choruses, Sacred (Women's voices, 4 parts), Unaccompanied
-Choruses, Sacred (Men's voices), Unaccompanied	Choruses, Sacred (Women's voices), Unaccompanied
-Choruses, Sacred (Men's voices) with instrumental ensemble	Choruses, Sacred (Women's voices) with instrumental ensemble
-Choruses, Sacred (Men's voices) with orchestra	Choruses, Sacred (Women's voices) with orchestra
-Choruses, Sacred (Men's voices) with organ	Choruses, Sacred (Women's voices) with organ
-Choruses, Sacred (Men's voices) with piano	Choruses, Sacred (Women's voices) with piano
-Choruses, Secular (Men's voices)	Choruses, Secular (Women's voices)
-Choruses, Secular (Men's voices, 4 parts), Unaccompanied	Choruses, Secular (Women's voices, 4 parts), Unaccompanied
-Choruses, Secular (Men's voices), Unaccompanied	Choruses, Secular (Women's voices), Unaccompanied
-Choruses, Secular (Men's voices) with band	Choruses, Secular (Women's voices) with band
-Choruses, Secular (Men's voices) with electronics	Choruses, Secular (Women's voices) with electronics
-Choruses, Secular (Men's voices) with instrumental ensemble	Choruses, Secular (Women's voices) with instrumental ensemble
-Choruses, Secular (Men's voices) with orchestra	Choruses, Secular (Women's voices) with orchestra
-Choruses, Secular (Men's voices) with piano	Choruses, Secular (Women's voices) with piano
-Choruses, Secular (Men's voices) with string orchestra	Choruses, Secular (Women's voices) with string orchestra
-Choruses (Men's voices)	Choruses (Women's voices)
-Choruses (Men's voices), Unaccompanied	Choruses (Women's voices), Unaccompanied
-Choruses (Men's voices) with piano	Choruses (Women's voices) with piano
-Masses (Men's voices)	Masses (Women's voices)
-Men's clothing	Women's clothing
-Men's clothing industry	Women's clothing industry
-Requiems (Men's voices)	Requiems (Women's voices)
-Working-men's clubs	Working-women's clubs
-Young Men's Christian associations	Young Women's Christian associations
-Men's studies	Women's studies
-Men's dreams	Women's dreams
-Masses (Men's voices), Unaccompanied	Masses (Women's voices), Unaccompanied
-Men's mass media	Women's mass media
 Eating disorders in men	Eating disorders in women
 Asian American men	Asian American women
 Depression in men	Depression in women
 Gifted men	Gifted women
 Latter Day Saint men	Latter Day Saint women
 Learning disabled men	Learning disabled women
+African American men in motion pictures	African American women in motion pictures
 Bahai men	Bahai women
+Cantatas (Men's voices)	Cantatas (Women's voices)
 Puritan men	Puritan women
 _African American HIV-positive men	_African American HIV-positive women
 African American bisexual men	African American bisexual women
@@ -77,75 +15,138 @@ Protestant men	Protestant women
 Homeless men	Homeless women
 Grief in men	Grief in women
 Working class men	Working class women
+Men, Black, in motion pictures	Women, Black, in motion pictures
+Men, White, in motion pictures	Women, White, in motion pictures
+Men in education	Women in education
 Seventh-Day Adventist men	Seventh-Day Adventist women
+Men and literature	Women and literature
 Obesity in men	Obesity in women
+Jewish men in literature	Jewish women in literature
+Asian American men in motion pictures	Asian American women in motion pictures
+Heterosexual men in motion pictures	Heterosexual women in motion pictures
 Indian men	Indian women
+Men's health services	Women's health services
 Married men	Married women
 Muslim men	Muslim women
 Christian education of young men	Christian education of young women
+Men's choirs	Women's choirs
 Preaching to men	Preaching to women
+Single men in literature	Single women in literature
 Urban men	Urban women
 Presbyterian men	Presbyterian women
 Upper class men	Upper class women
+Men in music	Women in music
 Gullah men	Gullah women
 Navajo men	Navajo women
+Older men in art	Older women in art
 Sexual minority men	Sexual minority women
+Men, Maasai	Women, Maasai
 Italian American men	Italian American women
 Arab American men	Arab American women
 Indigenous men	Indigenous women
 Hispanic American bisexual men	Hispanic American bisexual women
+Men, Black	Women, Black
 Pentecostal men	Pentecostal women
 Transgender men	Transgender women
+Men in comics	Women in comics
+African American men in comics	African American women in comics
 African American men	African American women
 Older men	Older women
+Cantatas, Sacred (Men's voices)	Cantatas, Sacred (Women's voices)
+Cantatas, Secular (Men's voices)	Cantatas, Secular (Women's voices)
+Choruses, Sacred (Men's voices)	Choruses, Sacred (Women's voices)
+Choruses, Sacred (Men's voices, 4 parts)	Choruses, Sacred (Women's voices, 4 parts)
+Choruses, Sacred (Men's voices, 4 parts), Unaccompanied	Choruses, Sacred (Women's voices, 4 parts), Unaccompanied
+Choruses, Sacred (Men's voices), Unaccompanied	Choruses, Sacred (Women's voices), Unaccompanied
+Choruses, Sacred (Men's voices) with orchestra	Choruses, Sacred (Women's voices) with orchestra
+Choruses, Sacred (Men's voices) with organ	Choruses, Sacred (Women's voices) with organ
+Choruses, Sacred (Men's voices) with piano	Choruses, Sacred (Women's voices) with piano
+Choruses, Secular (Men's voices)	Choruses, Secular (Women's voices)
+Choruses, Secular (Men's voices, 4 parts), Unaccompanied	Choruses, Secular (Women's voices, 4 parts), Unaccompanied
+Choruses, Secular (Men's voices), Unaccompanied	Choruses, Secular (Women's voices), Unaccompanied
+Choruses, Secular (Men's voices) with band	Choruses, Secular (Women's voices) with band
+Choruses, Secular (Men's voices) with electronics	Choruses, Secular (Women's voices) with electronics
+Choruses, Secular (Men's voices) with orchestra	Choruses, Secular (Women's voices) with orchestra
+Choruses, Secular (Men's voices) with piano	Choruses, Secular (Women's voices) with piano
+Choruses, Secular (Men's voices) with string orchestra	Choruses, Secular (Women's voices) with string orchestra
+Choruses (Men's voices)	Choruses (Women's voices)
+Choruses (Men's voices), Unaccompanied	Choruses (Women's voices), Unaccompanied
+Choruses (Men's voices) with piano	Choruses (Women's voices) with piano
 Church work with men	Church work with women
 Diving for men	Diving for women
 Divorced men	Divorced women
 Etiquette for men	Etiquette for women
 Exercise for men	Exercise for women
 Gymnastics for men	Gymnastics for women
+Masses (Men's voices)	Masses (Women's voices)
+Men	Women
+Men, White	Women, White
+Men in art	Women in art
+Men in church work	Women in church work
+Men in literature	Women in literature
+Men in motion pictures	Women in motion pictures
+Men's clothing	Women's clothing
+Men's clothing industry	Women's clothing industry
 Middle-aged men	Middle-aged women
 Photography of men	Photography of women
 Physical fitness for men	Physical fitness for women
+Requiems (Men's voices)	Requiems (Women's voices)
 Sex discrimination against men	Sex discrimination against women
 Sex instruction for men	Sex instruction for women
 Single men	Single women
 Skiing for men	Skiing for women
 Wild men	Wild women
+Wild men in literature	Wild women in literature
+Working-men's clubs	Working-women's clubs
 Young men	Young women
+Young Men's Christian associations	Young Women's Christian associations
+Men's studies	Women's studies
 Middle class men	Middle class women
 Jewish men	Jewish women
+Men in mass media	Women in mass media
 Abusive men	Abusive women
 Hispanic American men	Hispanic American women
+Men in popular culture	Women in popular culture
+Men's dreams	Women's dreams
+Masses (Men's voices), Unaccompanied	Masses (Women's voices), Unaccompanied
 Social work with men	Social work with women
 Poor men	Poor women
 Bisexual men	Bisexual women
 Heterosexual men	Heterosexual women
+African American men in literature	African American women in literature
+Older men in literature	Older women in literature
+Men in the Bible	Women in the Bible
 Overweight men	Overweight women
 African American young men	African American young women
+Young men in literature	Young women in literature
 Abused men	Abused women
-Sexual harassment of men	Sexual harassment of women
+Men on television	Women on television
 Self-perception in men	Self-perception in women
 Japanese American men	Japanese American women
 Deaf men	Deaf women
+Men with disabilities	Women with disabilities
+Men's mass media	Women's mass media
+African American men in art	African American women in art
+Men, White, in literature	Women, White, in literature
 Psychologically abused men	Psychologically abused women
+Men in advertising	Women in advertising
+Wild men in art	Wild women in art
 Motion pictures for men	Motion pictures for women
 Korean American men	Korean American women
 Self-esteem in men	Self-esteem in women
 Rural men	Rural women
 Body image in men	Body image in women
+African American men in popular culture	African American women in popular culture
 Christian men	Christian women
 Catholic men	Catholic women
 HIV-positive men	HIV-positive women
 Motion pictures and men	Motion pictures and women
 Cancer in men	Cancer in women
 Violence in men	Violence in women
-Men, Black, in motion pictures	Women, Black, in motion pictures
-Men, White, in motion pictures	Women, White, in motion pictures
-Men, Maasai	Women, Maasai
-Men, Black	Women, Black
-Men, White	Women, White
-Men, White, in literature	Women, White, in literature
+Men with mental disabilities	Women with mental disabilities
+Choruses, Sacred (Men's voices) with instrumental ensemble	Choruses, Sacred (Women's voices) with instrumental ensemble
+Choruses, Secular (Men's voices) with instrumental ensemble	Choruses, Secular (Women's voices) with instrumental ensemble
+Sexual harassment of men	Sexual harassment of women
 Male friendship in motion pictures	Female friendship in motion pictures
 Male friendship on television	Female friendship on television
 Generative organs, Male	Generative organs, Female
@@ -154,12 +155,12 @@ Male impersonators in motion pictures	Female impersonators in motion pictures
 Infertility, Male	Infertility, Female
 Male livestock	Female livestock
 Male nude in art	Female nude in art
-Males	Females
 Male orgasm	Female orgasm
 Male friendship	Female friendship
-Males in literature	Females in literature
 Male juvenile delinquents	Female juvenile delinquents
 Male friendship in literature	Female friendship in literature
+Masculine beauty (Aesthetics)	Feminine beauty (Aesthetics)
+Masculine names	Feminine names
 Male authors, Russian	Women authors, Russian
 Male comedians	Women comedians
 Male caregivers	Women caregivers
@@ -194,143 +195,3 @@ Male dramatists	Women dramatists
 Male authors, American	Women authors, American
 African American male singers	African American women singers
 Male singers	Women singers
-Homeless boys	Homeless girls
-Hispanic American teenage boys	Hispanic American teenage girls
-Teenage boys in literature	Teenage girls in literature
-Gifted boys	Gifted girls
-Infant boys	Infant girls
-Boys in motion pictures	Girls in motion pictures
-Muslim boys	Muslim girls
-Sexually abused boys	Sexually abused girls
-Handicraft for boys	Handicraft for girls
-High school boys	High school girls
-Teenage boys in motion pictures	Teenage girls in motion pictures
-Latter Day Saint boys	Latter Day Saint girls
-Navajo boys	Navajo girls
-Pueblo boys	Pueblo girls
-Hispanic American boys	Hispanic American girls
-Gymnastics for boys	Gymnastics for girls
-Junior high school boys	Junior high school girls
-Hawaiian boys	Hawaiian girls
-Mexican American teenage boys	Mexican American teenage girls
-Cree boys	Cree girls
-Middle school boys	Middle school girls
-Boys' schools	Girls' schools
-Teenage boys	Teenage girls
-Boy Scouts	Girl Scouts
-Boys	Girls
-Boys' clothing	Girls' clothing
-Boys in art	Girls in art
-Boys in literature	Girls in literature
-Christian education of boys	Christian education of girls
-Etiquette for boys	Etiquette for girls
-Sex instruction for boys	Sex instruction for girls
-Grooming for boys	Grooming for girls
-African American teenage boys	African American teenage girls
-African American boys	African American girls
-Bat boys	Bat girls
-Asian American boys	Asian American girls
-Indian boys	Indian girls
-Tewa boys	Tewa girls
-Zuni boys	Zuni girls
-Gullah boys	Gullah girls
-Middle-aged fathers	Middle-aged mothers
-Fathers of authors	Mothers of authors
-African American teenage fathers	African American teenage mothers
-Fathers of prime ministers	Mothers of prime ministers
-Fathers on television	Mothers on television
-Nonbiological fathers	Nonbiological mothers
-Stay-at-home fathers	Stay-at-home mothers
-Fathers of children with disabilities	Mothers of children with disabilities
-Fathers in motion pictures	Mothers in motion pictures
-Fathers in art	Mothers in art
-African American single fathers	African American single mothers
-Fathers of heads of state	Mothers of heads of state
-Single fathers in motion pictures	Single mothers in motion pictures
-Low-income fathers	Low-income mothers
-Divorced fathers	Divorced mothers
-Father and child	Mother and child
-Fathers	Mothers
-Father's Day	Mother's Day
-Fathers-in-law	Mothers-in-law
-Fathers in literature	Mothers in literature
-Fathers in the Bible	Mothers in the Bible
-Grandfathers	Grandmothers
-Unmarried fathers	Unmarried mothers
-Teenage fathers	Teenage mothers
-Single fathers	Single mothers
-Fathers of presidents	Mothers of presidents
-Mentally ill fathers	Mentally ill mothers
-Great-grandfathers	Great-grandmothers
-Fathers of murder victims	Mothers of murder victims
-Father and child in literature	Mother and child in literature
-Absentee fathers	Absentee mothers
-Father and infant	Mother and infant
-African American fathers	African American mothers
-Grandsons	Granddaughters
-Sons-in-law	Daughters-in-law
-Sons	Daughters
-Great-uncles	Great-aunts
-Uncles	Aunts
-Uncles in literature	Aunts in literature
-Brothers in art	Sisters in art
-Twin brothers	Twin sisters
-Brothers	Sisters
-Brothers in the Bible	Sisters in the Bible
-Brothers in literature	Sisters in literature
-Fiancés	Fiancées
-Husband abuse	Wife abuse
-Husbands	Wives
-Runaway husbands	Runaway wives
-Husbands in literature	Wives in literature
-Abused husbands	Abused wives
-Bridegrooms	Brides
-Nephews	Nieces
-Masculine beauty (Aesthetics)	Feminine beauty (Aesthetics)
-Masculine names	Feminine names
-African American gay men	African American lesbians
-Gay men in motion pictures	Lesbians in motion pictures
-Jewish gay men	Jewish lesbians
-Gay men, Black	Lesbians, Black
-Catholic gay men	Catholic lesbians
-Christian gay men	Christian lesbians
-Asian American gay men	Asian American lesbians
-Muslim gay men	Muslim lesbians
-Hispanic American gay men	Hispanic American lesbians
-Gay men in comics	Lesbians in comics
-Gay men in advertising	Lesbians in advertising
-Italian American gay men	Italian American lesbians
-Mexican American gay men	Mexican American lesbians
-Minority gay men	Minority lesbians
-Gay men	Lesbians
-Sex instruction for gay men	Sex instruction for lesbians
-Older gay men	Older lesbians
-Abused gay men	Abused lesbians
-Gay men on postage stamps	Lesbians on postage stamps
-Gay men in literature	Lesbians in literature
-Etiquette for gay men	Etiquette for lesbians
-Gay men in art	Lesbians in art
-Rural gay men	Rural lesbians
-Gay men and musicals	Lesbians and musicals
-Gay men in mass media	Lesbians in mass media
-Middle-aged gay men	Middle-aged lesbians
-Gay men's writings, New Zealand	Lesbians' writings, New Zealand
-Gay men's writings, Argentine	Lesbians' writings, Argentine
-Gay men's writings, South African (English)	Lesbians' writings, South African (English)
-Gay men's writings, Mexican	Lesbians' writings, Mexican
-Gay men's writings, Indic (English)	Lesbians' writings, Indic (English)
-Gay men's writings, Scottish	Lesbians' writings, Scottish
-Gay men's writings, Colombian	Lesbians' writings, Colombian
-Gay men's writings, German	Lesbians' writings, German
-Gay men's writings, Canadian	Lesbians' writings, Canadian
-Gay men's writings, French	Lesbians' writings, French
-Gay men's writings, Italian	Lesbians' writings, Italian
-Gay men's writings	Lesbians' writings
-Gay men's writings, American	Lesbians' writings, American
-Gay men's writings, English	Lesbians' writings, English
-Gay men's writings, Australian	Lesbians' writings, Australian
-Gay men's writings, Brazilian	Lesbians' writings, Brazilian
-Gay men's writings, Russian	Lesbians' writings, Russian
-Gay men's writings, Irish	Lesbians' writings, Irish
-Gay men's writings, North African (French)	Lesbians' writings, North African (French)
-Gay fathers	Lesbian mothers
