@@ -139,7 +139,7 @@ def getLCCBreakdown(lcsh, raw=False):
 Code to clean up the LCSH headings. This function removes any unwanted characters and makes all the words lowercase.
 '''
 def clean(word):
-    return word.lower().replace('(', '').replace(')', '').replace("'", " '").replace(',', '').replace('_', '').replace('-', ' ')
+    return word.lower().replace('(', '').replace(')', '').replace("'", " '").replace(', ', ' ').replace(',', ' ').replace('_', '').replace('-', ' ').replace('...', ' ').replace('.', '').replace(';', '').replace(':', '').replace('?', '').replace('!', '').replace('&', 'and').replace('/', ' ').replace('  ', ' ').replace('"', '',).strip()
 
 
 def head2Ngram(head, n):
@@ -329,18 +329,18 @@ def getTermsWithPhrase(lcsh, phrases):
     return indices
 
 
-def pruneAmbiguous(mTerms, wTerms, ambiguous):
-    with open('Data/LCSH/ambiguous-lcsh.txt', 'w') as f:
+def pruneAmbiguous(mTerms, wTerms, ambiguous, key, fp):
+    with open(fp, 'w') as f:
         for idx in ambiguous:
             if idx in mTerms and idx in wTerms:
-                f.write(f'{mTerms[idx]['heading']}\n')
+                f.write(f'{mTerms[idx][key]}\n')
                 del mTerms[idx]
                 del wTerms [idx]
             elif idx in wTerms:
-                f.write(f'{wTerms[idx]['heading']}\n')
+                f.write(f'{wTerms[idx][key]}\n')
                 del wTerms [idx]
             elif idx in mTerms:
-                f.write(f'{mTerms[idx]['heading']}\n')
+                f.write(f'{mTerms[idx][key]}\n')
                 del mTerms[idx]
 
 def checkParents(term):
